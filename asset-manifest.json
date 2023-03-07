@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prioritizeme/static/css/main.aa88e8b9.css",
+    "main.js": "/prioritizeme/static/js/main.e3b4e14f.js",
+    "index.html": "/prioritizeme/index.html",
+    "main.aa88e8b9.css.map": "/prioritizeme/static/css/main.aa88e8b9.css.map",
+    "main.e3b4e14f.js.map": "/prioritizeme/static/js/main.e3b4e14f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa88e8b9.css",
+    "static/js/main.e3b4e14f.js"
+  ]
+}
